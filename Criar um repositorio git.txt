@@ -1,0 +1,5 @@
+-> Criar um nova pasta
+->botão direito -> git create repository here -> ok
+->crie arquivos TXT
+->adicione os arquivos ao repositosio : -> botão direito sobre o arquivo -> tortoise git -> all -> ok
+->salvar alterações do repositorio local -> botão direito -> git commit -> preencha a mensagem  -> ok
